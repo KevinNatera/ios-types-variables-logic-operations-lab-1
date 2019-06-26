@@ -11,7 +11,7 @@
 
 ## 1. Which data type would be the best to use for recording the total balance of an online shopping cart?
 
-// your answer here
+Double.
 
 ***
 ## 2. Which of the following variable declarations is **incorrect**?
@@ -25,11 +25,13 @@ let emotion: String = ":)"
 
 let grade: Char = "a"
 ```
-
+The last declaration is incorrect.
 ***
 ## 3. Simplify the following using a calculator:
 
 1 + 4 * 2 / 2 + 2
+
+= 7
 
 ***
 ## 4. Which of the following are true? State all that apply.
@@ -43,7 +45,7 @@ let grade: Char = "a"
 
 (14 % 2 < 4) || (243 % 13 > 2) || (52 % 3 > 5)
 ```
-
+The first and the last examples are true. 
 ***
 ## 5. Which of the follow is true?
 
@@ -71,7 +73,7 @@ let numSeven = 4.0 + 1.2
 let numEight = 5.0 + .2
 let d = numSeven == numEight
 ```
-
+A is true.
 ***
 ## 6. What is the final value of i?
 
@@ -83,3 +85,4 @@ i *= 2
 i %= 3
 i -= 3
 ```
+i = -2
